@@ -1,5 +1,5 @@
-# Python-Programming-Course
-Python Programming Course
+# Python-for-Data-Science-Course
+Python for Data Science Course
 
 Basics 
 Data Analytics 
